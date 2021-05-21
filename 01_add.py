@@ -1,11 +1,10 @@
 import unittest
 
-# Implement the below function and run this file
-# Return the output, No need read input or print the ouput
 
+def add(n1,n2):
 
-def add(n1, n2):
-    pass
+    return(n1+n2)
+
 
 
 # DO NOT TOUCH THE BELOW CODE
